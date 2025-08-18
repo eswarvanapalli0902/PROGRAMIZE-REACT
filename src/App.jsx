@@ -3,11 +3,11 @@ import{BrowserRouter,Routes,Route} from "react-router-dom"
 import Python from "./python";
 import Home from "./home";
 import JavaScript from "./javascript";
-import Css from "./css";
 import HTML from "./html";
 import Sql from "./sql";
 import Signup from "./signup";
 import Login from "./login";
+import Css from "./css";
 
 function App(){
   return(
