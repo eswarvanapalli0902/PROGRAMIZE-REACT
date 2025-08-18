@@ -1,0 +1,64 @@
+.html-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #fffdf5;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  font-family: "Segoe UI", sans-serif;
+}
+
+.html-title {
+  font-size: 2.5rem;
+  color: #e44d26;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.html-description {
+  font-size: 1.2rem;
+  color: #444;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.html-topics {
+  margin-bottom: 30px;
+}
+
+.html-topics h2 {
+  font-size: 1.5rem;
+  color: #222;
+  margin-bottom: 10px;
+}
+
+.html-topics ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.html-topics li {
+  background-color: #fbe9dc;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.explore-btn {
+  display: block;
+  margin: 0 auto;
+  padding: 12px 24px;
+  font-size: 1rem;
+  color: white;
+  background-color: #e44d26;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.explore-btn:hover {
+  background-color: #c73f1e;
+}

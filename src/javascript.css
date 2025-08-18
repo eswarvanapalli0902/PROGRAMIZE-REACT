@@ -1,0 +1,65 @@
+.js-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #fdfdfd;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  font-family: "Segoe UI", sans-serif;
+}
+
+.js-title {
+  font-size: 2.5rem;
+  color: #f7df1e;
+  text-align: center;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px #00000015;
+}
+
+.js-description {
+  font-size: 1.2rem;
+  color: #444;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.js-topics {
+  margin-bottom: 30px;
+}
+
+.js-topics h2 {
+  font-size: 1.5rem;
+  color: #222;
+  margin-bottom: 10px;
+}
+
+.js-topics ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.js-topics li {
+  background-color: #fffbea;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.explore-btn {
+  display: block;
+  margin: 0 auto;
+  padding: 12px 24px;
+  font-size: 1rem;
+  color: white;
+  background-color: #f7df1e;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.explore-btn:hover {
+  background-color: #e5cb00;
+}
