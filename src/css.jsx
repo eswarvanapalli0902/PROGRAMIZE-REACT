@@ -1,7 +1,7 @@
 import React from "react";
 import "./Css.css";
 
-function Css() {
+function CSS() {
     return (
         <div className="css-container">
             <h1 className="css-title">CSS Mastery</h1>
@@ -28,4 +28,4 @@ function Css() {
     );
 }
 
-export default Css;
+export default CSS;

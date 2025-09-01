@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "./signup.css";
 
-function Signup() {
+function SignUp() {
   const navigate = useNavigate();
 
   const [name, setName] = useState("");
@@ -81,4 +81,4 @@ function Signup() {
   );
 }
 
-export default Signup;
+export default SignUp;
