@@ -1,5 +1,5 @@
 import React from "react";
-import "./Sql.css";
+import "./sql.css";
 
 function Sql() {
     return (

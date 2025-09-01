@@ -1,5 +1,5 @@
 import React from "react";
-import "./HTML.css";
+import "./html.css";
 
 function HTML() {
     return (

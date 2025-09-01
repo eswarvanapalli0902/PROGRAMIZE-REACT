@@ -1,6 +1,6 @@
 import React from "react";
 import{BrowserRouter,Routes,Route} from "react-router-dom"
-import Python from "./python";
+import Python from "./Python";
 import JavaScript from "./javascript";
 import Css from "./css";
 import HTML from "./html";
