@@ -19,6 +19,7 @@ function Sql() {
                     <li>🔐 Constraints & Keys</li>
                     <li>📤 INSERT, UPDATE, DELETE</li>
                 </ul>
+                
             </div>
 
             <button className="explore-btn">
